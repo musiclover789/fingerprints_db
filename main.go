@@ -35,7 +35,7 @@ func main() {
 					Width:  1496,
 					Height: 967,
 				},
-				ProxyStr: "http://razor:razor9200@118.27.40.147:3128",
+				ProxyStr: "http://uname:password@111.1.40.111:3128",
 			})
 			//===================
 			var wg sync.WaitGroup
