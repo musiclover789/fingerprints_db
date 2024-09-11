@@ -5,6 +5,14 @@
 
 原项目地址:https://github.com/musiclover789/luna
 
+
+## 原理
+
+
+
+- 他会根据您的IP自动计算您所在的时区、语言、等，另外 设置user-agent，useragent-data、显卡、cavans、webgl、webgpu、声卡、等相关指纹
+- 而且他会保证一致性、比如您传入的是1、代表第一套指纹，那么这个第一套指纹永远都不会变，保持一致性，防止出现对方误判。
+
 ## 前提条件
 
 
