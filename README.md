@@ -3,6 +3,7 @@
 这是一个简单的示例代码,介绍如何使用luna设置浏览器指纹；
 
 
+原项目地址:https://github.com/musiclover789/luna
 
 ## 前提条件
 
